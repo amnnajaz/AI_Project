@@ -44,7 +44,7 @@ AI_Project/
 
 ## Setup
 
-Requires Python 3.10 or newer.
+Requires Python 3.10 to 3.12.
 
 ```bash
 # 1. Clone the repository and enter the project folder

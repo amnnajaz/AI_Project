@@ -1,4 +1,4 @@
-xz# Guess Who I Am (Akinator-Style)
+## Guess Who I Am (Akinator-Style)
 
 **AL-2002 Artificial Intelligence (Laboratory) · Fall 2026 · FAST-NUCES, Karachi Campus**
 

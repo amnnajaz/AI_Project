@@ -1,0 +1,323 @@
+Candidate,Strategy,Noise_Level,Questions,Success,Runtime
+Muhammad Ali Jinnah,Information Gain,0.0,11,True,0.16474909999999987
+Muhammad Ali Jinnah,Random,0.0,20,True,0.0026519999999998767
+Fatima Jinnah,Information Gain,0.0,20,True,0.20820179999999988
+Fatima Jinnah,Random,0.0,20,True,0.0022105999999997294
+Liaquat Ali Khan,Information Gain,0.0,8,True,0.08091520000000019
+Liaquat Ali Khan,Random,0.0,20,False,0.0020685000000000286
+Zulfikar Ali Bhutto,Information Gain,0.0,16,True,0.1351403000000002
+Zulfikar Ali Bhutto,Random,0.0,20,False,0.0024212999999999596
+Benazir Bhutto,Information Gain,0.0,20,True,0.1422133999999997
+Benazir Bhutto,Random,0.0,20,True,0.002254999999999896
+Nawaz Sharif,Information Gain,0.0,10,True,0.08808019999999983
+Nawaz Sharif,Random,0.0,20,True,0.0016699999999998383
+Shehbaz Sharif,Information Gain,0.0,20,True,0.12032890000000007
+Shehbaz Sharif,Random,0.0,20,False,0.001517100000000049
+Imran Khan,Information Gain,0.0,9,True,0.06062019999999979
+Imran Khan,Random,0.0,20,True,0.003357700000000019
+Asif Ali Zardari,Information Gain,0.0,11,True,0.12173949999999989
+Asif Ali Zardari,Random,0.0,20,False,0.0014235999999998583
+Pervez Musharraf,Information Gain,0.0,20,False,0.1088057999999994
+Pervez Musharraf,Random,0.0,20,False,0.001378700000000066
+Zia-ul-Haq,Information Gain,0.0,19,False,0.13883560000000017
+Zia-ul-Haq,Random,0.0,20,False,0.002591500000000302
+Ayub Khan,Information Gain,0.0,9,True,0.06291099999999972
+Ayub Khan,Random,0.0,20,False,0.0013746000000001146
+Bilawal Bhutto Zardari,Information Gain,0.0,20,False,0.11030790000000046
+Bilawal Bhutto Zardari,Random,0.0,20,False,0.0013825000000000642
+Maryam Nawaz,Information Gain,0.0,20,True,0.10700070000000039
+Maryam Nawaz,Random,0.0,20,False,0.0013937999999997785
+Abdul Ghaffar Khan,Information Gain,0.0,20,True,0.1078682999999998
+Abdul Ghaffar Khan,Random,0.0,20,False,0.001375299999999413
+Malala Yousafzai,Information Gain,0.0,20,True,0.10642719999999972
+Malala Yousafzai,Random,0.0,20,False,0.001374700000000395
+Abdus Salam,Information Gain,0.0,9,True,0.0580430999999999
+Abdus Salam,Random,0.0,20,False,0.0017339999999999023
+Abdul Qadeer Khan,Information Gain,0.0,20,True,0.10792330000000039
+Abdul Qadeer Khan,Random,0.0,20,True,0.0013908999999996396
+Abdul Sattar Edhi,Information Gain,0.0,15,True,0.10623480000000018
+Abdul Sattar Edhi,Random,0.0,20,True,0.001443799999999662
+Sharmeen Obaid-Chinoy,Information Gain,0.0,20,True,0.12568350000000006
+Sharmeen Obaid-Chinoy,Random,0.0,20,False,0.0027425999999994843
+Allama Muhammad Iqbal,Information Gain,0.0,20,True,0.12861330000000049
+Allama Muhammad Iqbal,Random,0.0,20,True,0.0018910999999999234
+Faiz Ahmed Faiz,Information Gain,0.0,20,True,0.11470979999999997
+Faiz Ahmed Faiz,Random,0.0,20,False,0.0014438000000005502
+Saadat Hasan Manto,Information Gain,0.0,13,True,0.0750251000000004
+Saadat Hasan Manto,Random,0.0,20,False,0.002132900000000326
+Bano Qudsia,Information Gain,0.0,20,False,0.14458899999999986
+Bano Qudsia,Random,0.0,20,False,0.0015740000000006305
+Mustansar Hussain Tarar,Information Gain,0.0,20,False,0.10732910000000029
+Mustansar Hussain Tarar,Random,0.0,20,False,0.0013802999999992238
+Nusrat Fateh Ali Khan,Information Gain,0.0,20,True,0.10740640000000035
+Nusrat Fateh Ali Khan,Random,0.0,20,False,0.0018545000000003142
+Rahat Fateh Ali Khan,Information Gain,0.0,14,False,0.14114510000000013
+Rahat Fateh Ali Khan,Random,0.0,20,False,0.0013684999999998837
+Atif Aslam,Information Gain,0.0,10,True,0.059521800000000624
+Atif Aslam,Random,0.0,20,False,0.0013676000000000244
+Abida Parveen,Information Gain,0.0,8,True,0.04863780000000073
+Abida Parveen,Random,0.0,20,True,0.0013746000000001146
+Noor Jehan,Information Gain,0.0,13,True,0.07639450000000014
+Noor Jehan,Random,0.0,20,False,0.001389099999999921
+Mehdi Hassan,Information Gain,0.0,20,False,0.10909829999999943
+Mehdi Hassan,Random,0.0,20,False,0.00136219999999998
+Mahira Khan,Information Gain,0.0,20,False,0.10654879999999967
+Mahira Khan,Random,0.0,20,False,0.001427500000000137
+Fawad Khan,Information Gain,0.0,20,True,0.11296589999999984
+Fawad Khan,Random,0.0,20,False,0.0016736000000001638
+Humayun Saeed,Information Gain,0.0,20,False,0.1161954999999999
+Humayun Saeed,Random,0.0,20,False,0.0013719999999999288
+Moin Akhtar,Information Gain,0.0,20,True,0.1086564000000001
+Moin Akhtar,Random,0.0,20,False,0.0013739999999993202
+Wasim Akram,Information Gain,0.0,20,True,0.11092659999999999
+Wasim Akram,Random,0.0,20,True,0.0013615999999991857
+Waqar Younis,Information Gain,0.0,20,True,0.17653300000000005
+Waqar Younis,Random,0.0,20,False,0.0013631000000007276
+Javed Miandad,Information Gain,0.0,20,True,0.10596180000000022
+Javed Miandad,Random,0.0,20,False,0.0013727000000001155
+Inzamam-ul-Haq,Information Gain,0.0,20,True,0.10841220000000007
+Inzamam-ul-Haq,Random,0.0,20,False,0.001375499999999974
+Younis Khan,Information Gain,0.0,20,True,0.10632529999999996
+Younis Khan,Random,0.0,20,True,0.0013714000000000226
+Shahid Afridi,Information Gain,0.0,20,True,0.10656670000000013
+Shahid Afridi,Random,0.0,20,False,0.0013750000000003482
+Shoaib Akhtar,Information Gain,0.0,20,True,0.10576479999999933
+Shoaib Akhtar,Random,0.0,20,False,0.0013702000000002101
+Babar Azam,Information Gain,0.0,20,True,0.10621649999999949
+Babar Azam,Random,0.0,20,False,0.0013663999999993237
+Hanif Mohammad,Information Gain,0.0,20,False,0.11046270000000025
+Hanif Mohammad,Random,0.0,20,False,0.0013538000000004047
+Jahangir Khan,Information Gain,0.0,20,True,0.11283279999999962
+Jahangir Khan,Random,0.0,20,True,0.0013757000000005348
+Jansher Khan,Information Gain,0.0,9,True,0.0587175000000002
+Jansher Khan,Random,0.0,20,True,0.001419499999999907
+Arshad Nadeem,Information Gain,0.0,20,True,0.10654620000000037
+Arshad Nadeem,Random,0.0,20,False,0.0013658000000003057
+Minar-e-Pakistan,Information Gain,0.0,20,False,0.10688869999999895
+Minar-e-Pakistan,Random,0.0,20,True,0.0013759000000010957
+Badshahi Mosque,Information Gain,0.0,18,True,0.09900179999999992
+Badshahi Mosque,Random,0.0,20,False,0.001368000000001146
+Lahore Fort,Information Gain,0.0,9,False,0.055218199999998774
+Lahore Fort,Random,0.0,20,True,0.0013795999999999253
+Shalimar Gardens,Information Gain,0.0,20,False,0.10567059999999984
+Shalimar Gardens,Random,0.0,20,False,0.0013598999999988592
+Rohtas Fort,Information Gain,0.0,20,False,0.10971119999999956
+Rohtas Fort,Random,0.0,20,False,0.0013701000000008179
+Derawar Fort,Information Gain,0.0,20,False,0.11249180000000081
+Derawar Fort,Random,0.0,20,False,0.0013705000000001633
+Taxila,Information Gain,0.0,20,False,0.1133387999999993
+Taxila,Random,0.0,20,False,0.002709600000001089
+Data Darbar,Information Gain,0.0,10,True,0.11728590000000061
+Data Darbar,Random,0.0,20,False,0.0027999999999988034
+Wagah Border,Information Gain,0.0,20,True,0.22787890000000033
+Wagah Border,Random,0.0,20,False,0.0031976000000000226
+Khewra Salt Mine,Information Gain,0.0,20,False,0.17576690000000106
+Khewra Salt Mine,Random,0.0,20,True,0.0015539000000011072
+Murree,Information Gain,0.0,20,True,0.11036680000000132
+Murree,Random,0.0,20,True,0.0013804000000003924
+Lahore,Information Gain,0.0,18,True,0.12121400000000015
+Lahore,Random,0.0,20,True,0.001429699999999201
+Multan,Information Gain,0.0,20,True,0.1817726999999998
+Multan,Random,0.0,20,False,0.0027509000000005557
+Rawalpindi,Information Gain,0.0,20,False,0.22884300000000124
+Rawalpindi,Random,0.0,20,False,0.002723500000000101
+Islamabad,Information Gain,0.0,20,True,0.26262279999999905
+Islamabad,Random,0.0,20,True,0.00254460000000023
+Faisal Mosque,Information Gain,0.0,20,False,0.18145529999999965
+Faisal Mosque,Random,0.0,20,False,0.002807300000000623
+Pakistan Monument,Information Gain,0.0,20,True,0.20366589999999896
+Pakistan Monument,Random,0.0,20,False,0.003246199999999533
+Mazar-e-Quaid,Information Gain,0.0,20,False,0.1937148000000004
+Mazar-e-Quaid,Random,0.0,20,False,0.0014406000000004582
+Mohenjo-daro,Information Gain,0.0,17,True,0.11677369999999954
+Mohenjo-daro,Random,0.0,20,False,0.0021076999999998236
+Makli Necropolis,Information Gain,0.0,8,True,0.05708319999999922
+Makli Necropolis,Random,0.0,20,False,0.0014368999999998522
+Mohatta Palace,Information Gain,0.0,20,True,0.12325059999999866
+Mohatta Palace,Random,0.0,20,False,0.002312699999999168
+Lal Shahbaz Qalandar Shrine,Information Gain,0.0,20,True,0.123305199999999
+Lal Shahbaz Qalandar Shrine,Random,0.0,20,False,0.001428899999998734
+Clifton Beach,Information Gain,0.0,11,True,0.08038920000000083
+Clifton Beach,Random,0.0,20,True,0.0014439999999993347
+Karachi,Information Gain,0.0,10,True,0.06323420000000013
+Karachi,Random,0.0,20,True,0.0013746999999995069
+Hyderabad,Information Gain,0.0,14,True,0.08767929999999957
+Hyderabad,Random,0.0,20,False,0.0013927999999996388
+Swat Valley,Information Gain,0.0,20,False,0.11239220000000039
+Swat Valley,Random,0.0,20,False,0.0013884999999991265
+Lake Saiful Muluk,Information Gain,0.0,20,True,0.10737310000000022
+Lake Saiful Muluk,Random,0.0,20,True,0.0013828000000000173
+Naran,Information Gain,0.0,20,True,0.11601660000000003
+Naran,Random,0.0,20,False,0.0014266000000002776
+Khyber Pass,Information Gain,0.0,20,True,0.11531199999999941
+Khyber Pass,Random,0.0,20,False,0.0013746000000001146
+Peshawar,Information Gain,0.0,12,True,0.07435199999999931
+Peshawar,Random,0.0,20,False,0.002371000000000123
+Chitral,Information Gain,0.0,20,False,0.228628500000001
+Chitral,Random,0.0,20,True,0.004206399999999277
+Quetta,Information Gain,0.0,20,False,0.15384990000000087
+Quetta,Random,0.0,20,True,0.0014120000000001909
+Gwadar,Information Gain,0.0,20,False,0.11797479999999894
+Gwadar,Random,0.0,20,True,0.0015540999999998917
+Hingol National Park,Information Gain,0.0,20,True,0.11109699999999911
+Hingol National Park,Random,0.0,20,False,0.0013927999999996388
+Ziarat Juniper Forest,Information Gain,0.0,20,False,0.13143690000000063
+Ziarat Juniper Forest,Random,0.0,20,True,0.0026174999999994952
+Hanna Lake,Information Gain,0.0,20,False,0.2125585000000001
+Hanna Lake,Random,0.0,20,False,0.002878700000000123
+K2,Information Gain,0.0,20,True,0.23694369999999942
+K2,Random,0.0,20,False,0.0032921000000012413
+Nanga Parbat,Information Gain,0.0,12,True,0.1107932999999992
+Nanga Parbat,Random,0.0,20,False,0.0014102999999998644
+Hunza Valley,Information Gain,0.0,20,False,0.12216300000000047
+Hunza Valley,Random,0.0,20,False,0.0013722000000004897
+Baltit Fort,Information Gain,0.0,12,True,0.07183850000000014
+Baltit Fort,Random,0.0,20,False,0.0013606999999993263
+Fairy Meadows,Information Gain,0.0,20,True,0.11341590000000146
+Fairy Meadows,Random,0.0,20,True,0.0020077000000000567
+Attabad Lake,Information Gain,0.0,20,False,0.13869870000000084
+Attabad Lake,Random,0.0,20,False,0.0023369999999989233
+Deosai National Park,Information Gain,0.0,20,False,0.18635309999999983
+Deosai National Park,Random,0.0,20,False,0.0020533000000000357
+Skardu,Information Gain,0.0,20,False,0.17954510000000035
+Skardu,Random,0.0,20,False,0.002365999999998536
+Gilgit,Information Gain,0.0,20,True,0.1469150999999993
+Gilgit,Random,0.0,20,False,0.00419269999999905
+Yahya Khan,Information Gain,0.0,20,False,0.21784219999999976
+Yahya Khan,Random,0.0,20,False,0.0016079999999991657
+Muhammad Khan Junejo,Information Gain,0.0,17,True,0.1976393999999999
+Muhammad Khan Junejo,Random,0.0,20,True,0.0016123999999990701
+Ghulam Ishaq Khan,Information Gain,0.0,13,True,0.07954370000000033
+Ghulam Ishaq Khan,Random,0.0,20,False,0.001361100000000448
+Yousaf Raza Gillani,Information Gain,0.0,20,True,0.22454760000000107
+Yousaf Raza Gillani,Random,0.0,20,False,0.001415500000000236
+Shaukat Aziz,Information Gain,0.0,10,True,0.06424009999999925
+Shaukat Aziz,Random,0.0,20,False,0.0013777000000008144
+Mamnoon Hussain,Information Gain,0.0,13,True,0.16047930000000044
+Mamnoon Hussain,Random,0.0,20,False,0.0032754999999990986
+Arif Alvi,Information Gain,0.0,20,False,0.23450219999999966
+Arif Alvi,Random,0.0,20,False,0.004141399999999962
+Raana Liaquat Ali Khan,Information Gain,0.0,20,False,0.20112989999999975
+Raana Liaquat Ali Khan,Random,0.0,20,False,0.0016633999999999816
+Sherry Rehman,Information Gain,0.0,10,True,0.09818660000000001
+Sherry Rehman,Random,0.0,20,False,0.0032616000000000867
+Asma Jahangir,Information Gain,0.0,12,True,0.18412129999999927
+Asma Jahangir,Random,0.0,20,False,0.002678500000000028
+Ruth Pfau,Information Gain,0.0,20,False,0.20727939999999911
+Ruth Pfau,Random,0.0,20,False,0.00381569999999698
+Bilquis Edhi,Information Gain,0.0,16,True,0.12615599999999816
+Bilquis Edhi,Random,0.0,20,True,0.00196809999999914
+Raheel Sharif,Information Gain,0.0,11,True,0.12372230000000073
+Raheel Sharif,Random,0.0,20,False,0.003212300000001278
+M. M. Alam,Information Gain,0.0,20,True,0.18781930000000102
+M. M. Alam,Random,0.0,20,False,0.0014116000000008455
+Atta-ur-Rahman,Information Gain,0.0,20,False,0.11306829999999835
+Atta-ur-Rahman,Random,0.0,20,True,0.0014319000000000415
+Samar Mubarakmand,Information Gain,0.0,20,True,0.15300690000000117
+Samar Mubarakmand,Random,0.0,20,False,0.0035722999999983074
+Pervez Hoodbhoy,Information Gain,0.0,11,False,0.12505529999999965
+Pervez Hoodbhoy,Random,0.0,20,True,0.0014579999999995152
+Shahid Khan,Information Gain,0.0,20,False,0.1075521999999971
+Shahid Khan,Random,0.0,20,False,0.0013718999999987602
+Malik Riaz,Information Gain,0.0,20,False,0.11361400000000188
+Malik Riaz,Random,0.0,20,False,0.00240919999999889
+Hussain Shah,Information Gain,0.0,20,True,0.2532870999999979
+Hussain Shah,Random,0.0,20,False,0.001933600000000979
+Maria Toorpakai Wazir,Information Gain,0.0,20,False,0.14121949999999828
+Maria Toorpakai Wazir,Random,0.0,20,False,0.0020598000000013883
+Aisam-ul-Haq Qureshi,Information Gain,0.0,20,True,0.15636250000000018
+Aisam-ul-Haq Qureshi,Random,0.0,20,False,0.0032051000000024032
+Samina Baig,Information Gain,0.0,20,False,0.23071369999999902
+Samina Baig,Random,0.0,20,False,0.0029493999999985476
+Muhammad Ali Sadpara,Information Gain,0.0,20,True,0.2146080000000019
+Muhammad Ali Sadpara,Random,0.0,20,False,0.003218400000001509
+Abdul Hafeez Kardar,Information Gain,0.0,20,True,0.22613079999999997
+Abdul Hafeez Kardar,Random,0.0,20,True,0.001462400000001196
+Fazal Mahmood,Information Gain,0.0,20,True,0.11274540000000144
+Fazal Mahmood,Random,0.0,20,False,0.001406799999998043
+Mushtaq Mohammad,Information Gain,0.0,20,True,0.18893179999999887
+Mushtaq Mohammad,Random,0.0,20,False,0.001434400000000835
+Sarfaraz Ahmed,Information Gain,0.0,20,False,0.11190239999999818
+Sarfaraz Ahmed,Random,0.0,20,False,0.0013885999999985188
+Shaheen Afridi,Information Gain,0.0,20,False,0.1890053000000016
+Shaheen Afridi,Random,0.0,20,False,0.002715800000000712
+Naseem Shah,Information Gain,0.0,20,True,0.14632929999999789
+Naseem Shah,Random,0.0,20,False,0.0022614999999994723
+Mohammad Amir,Information Gain,0.0,20,True,0.20916910000000044
+Mohammad Amir,Random,0.0,20,False,0.0024042000000008557
+Saqlain Mushtaq,Information Gain,0.0,20,False,0.127787399999999
+Saqlain Mushtaq,Random,0.0,20,False,0.0016907000000010441
+Sana Mir,Information Gain,0.0,20,False,0.12465170000000114
+Sana Mir,Random,0.0,20,False,0.0014769000000001142
+Bismah Maroof,Information Gain,0.0,11,True,0.08076110000000014
+Bismah Maroof,Random,0.0,20,False,0.00170089999999945
+Sajal Aly,Information Gain,0.0,14,True,0.09213079999999962
+Sajal Aly,Random,0.0,20,False,0.001828599999999625
+Ayeza Khan,Information Gain,0.0,20,True,0.11430039999999764
+Ayeza Khan,Random,0.0,20,False,0.001498299999997954
+Shaan Shahid,Information Gain,0.0,20,True,0.10765810000000187
+Shaan Shahid,Random,0.0,20,False,0.0014096000000023423
+Waheed Murad,Information Gain,0.0,9,True,0.05683529999999948
+Waheed Murad,Random,0.0,20,False,0.002101199999998471
+Ghulam Ali,Information Gain,0.0,14,True,0.08122140000000044
+Ghulam Ali,Random,0.0,20,False,0.0013866999999976315
+Ali Sethi,Information Gain,0.0,20,False,0.1424141999999975
+Ali Sethi,Random,0.0,20,False,0.0016496999999979778
+Nazia Hassan,Information Gain,0.0,20,True,0.11488270000000256
+Nazia Hassan,Random,0.0,20,False,0.00252630000000309
+Junaid Jamshed,Information Gain,0.0,8,True,0.0842222000000028
+Junaid Jamshed,Random,0.0,20,True,0.0017239000000017768
+Mohsin Hamid,Information Gain,0.0,20,False,0.11364039999999775
+Mohsin Hamid,Random,0.0,20,False,0.0013581999999985328
+Ahmed Faraz,Information Gain,0.0,20,True,0.11272390000000243
+Ahmed Faraz,Random,0.0,20,False,0.0013746999999995069
+Parveen Shakir,Information Gain,0.0,20,False,0.10977120000000085
+Parveen Shakir,Random,0.0,20,False,0.0014002999999966903
+Ashfaq Ahmed,Information Gain,0.0,9,True,0.05563749999999956
+Ashfaq Ahmed,Random,0.0,20,False,0.001364500000001101
+Wazir Khan Mosque,Information Gain,0.0,12,True,0.07053390000000093
+Wazir Khan Mosque,Random,0.0,20,False,0.0013511999999984425
+Jahangir's Tomb,Information Gain,0.0,8,True,0.048933600000001576
+Jahangir's Tomb,Random,0.0,20,False,0.0015490000000006887
+Hiran Minar,Information Gain,0.0,20,True,0.11841220000000163
+Hiran Minar,Random,0.0,20,False,0.0016777999999995075
+Katas Raj Temples,Information Gain,0.0,20,True,0.11024129999999843
+Katas Raj Temples,Random,0.0,20,False,0.0013737999999996475
+Bahauddin Zakariya Shrine,Information Gain,0.0,20,False,0.11966699999999975
+Bahauddin Zakariya Shrine,Random,0.0,20,False,0.0028426999999986435
+Uch Sharif,Information Gain,0.0,20,False,0.14910760000000067
+Uch Sharif,Random,0.0,20,False,0.0013703000000013787
+Gawalmandi Food Street,Information Gain,0.0,20,True,0.10828389999999999
+Gawalmandi Food Street,Random,0.0,20,False,0.0013627999999989981
+Nankana Sahib,Information Gain,0.0,20,False,0.11289090000000002
+Nankana Sahib,Random,0.0,20,False,0.0013706000000013319
+Kartarpur Corridor,Information Gain,0.0,20,False,0.2327541999999987
+Kartarpur Corridor,Random,0.0,20,False,0.001846499999999196
+Chaukhandi Tombs,Information Gain,0.0,13,False,0.08609000000000222
+Chaukhandi Tombs,Random,0.0,20,False,0.0013866000000000156
+Kot Diji Fort,Information Gain,0.0,15,True,0.09209949999999978
+Kot Diji Fort,Random,0.0,20,False,0.0013785999999988974
+Sukkur,Information Gain,0.0,20,True,0.11640799999999984
+Sukkur,Random,0.0,20,False,0.002090600000002496
+Manchar Lake,Information Gain,0.0,20,True,0.13507260000000088
+Manchar Lake,Random,0.0,20,False,0.0014311999999989666
+Keenjhar Lake,Information Gain,0.0,20,True,0.22692029999999974
+Keenjhar Lake,Random,0.0,20,False,0.0029068000000016525
+Frere Hall,Information Gain,0.0,20,False,0.26161420000000035
+Frere Hall,Random,0.0,20,False,0.005903400000001113
+Burns Road,Information Gain,0.0,20,True,0.30865169999999864
+Burns Road,Random,0.0,20,True,0.003282900000002087
+Thar Desert,Information Gain,0.0,20,True,0.2547062000000011
+Thar Desert,Random,0.0,20,False,0.0032746000000010156
+Takht-i-Bahi,Information Gain,0.0,20,True,0.25757660000000016
+Takht-i-Bahi,Random,0.0,20,False,0.003675699999998727
+Bala Hisar Fort,Information Gain,0.0,20,True,0.30924240000000225
+Bala Hisar Fort,Random,0.0,20,False,0.005747500000001793
+Mahabat Khan Mosque,Information Gain,0.0,9,True,0.17798510000000078
+Mahabat Khan Mosque,Random,0.0,20,False,0.0032247999999981403
+Hinglaj Mata Temple,Information Gain,0.0,20,False,0.2784534999999977
+Hinglaj Mata Temple,Random,0.0,20,True,0.0031999999999996476
+Khunjerab Pass,Information Gain,0.0,20,True,0.2472721
+Khunjerab Pass,Random,0.0,20,False,0.0032439000000010765
+Muzaffarabad,Information Gain,0.0,11,True,0.1551960000000001
+Muzaffarabad,Random,0.0,20,False,0.003344699999999534

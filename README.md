@@ -1,4 +1,4 @@
-# Guess Who I Am (Akinator-Style)
+xz# Guess Who I Am (Akinator-Style)
 
 **AL-2002 Artificial Intelligence (Laboratory) · Fall 2026 · FAST-NUCES, Karachi Campus**
 
@@ -20,26 +20,41 @@ AI_Project/
 ├── README.md
 └── Akinator/
     ├── README.md
-    ├── requirements.txt        <- every dependency
-    ├── .gitignore              <- keeps caches, venvs and secrets out
-    ├── docs/                   <- proposal and report, each as PDF and MD
-    ├── src/                    <- all source code, in modules
-    │   ├── knowledge_base.py   <- Candidate, KnowledgeBase (loads the CSV)
-    │   ├── belief.py           <- BeliefState (Bayesian update, entropy, top_k)
-    │   ├── selectors.py        <- QuestionSelector, InfoGainSelector, RandomSelector
-    │   ├── agent.py            <- GameAgent
-    │   ├── simulated_player.py <- SimulatedPlayer (noisy answers)
-    │   ├── evaluate.py         <- Evaluator (experiments, metrics, charts)
-    │   └── app.py              <- Streamlit user interface
+    ├── requirements.txt
+    ├── .gitignore
+    │
+    ├── docs/
+    │   ├── proposal.md
+    │   ├── proposal.pdf
+    │   ├── report.md
+    │   └── report.pdf
+    │
+    ├── src/
+    │   ├── knowledge_base.py
+    │   ├── belief.py
+    │   ├── question_selector.py
+    │   ├── game_agent.py
+    │   ├── simulated_player.py
+    │   ├── evaluator.py
+    │   └── app.py
+    │
     ├── tests/
-    │   └── test_belief.py      <- unit tests for the knowledge base and belief update
+    │   └── test_evaluator.py
+    │   ├── test_belief.py
+    │   ├── test_game_agent.py
+    │   └──  test_simulated_player.py
+    │
     ├── data/
-    │   ├── build_knowledge_base.py <- generates the CSV from a compact tag list
-    │   ├── raw/                <- knowledge_base.csv
-    │   └── processed/
+    │   └── raw/
+    │       └── knowledge_base.csv
+    │
     └── outputs/
-        ├── figures/            <- charts used in the report
-        └── results/            <- experiment tables and logs
+        ├── experiment_results.csv
+        ├── evaluation_metrics.csv
+        ├── success_rate.png
+        ├── average_questions.png
+        ├── question_distribution.png
+        └── entropy_progression.png
 ```
 
 ## Setup

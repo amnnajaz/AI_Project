@@ -47,6 +47,7 @@ AI_Project/
     ├── data/
     │   └── raw/
     │       └── knowledge_base.csv
+    |   └── build_knowledge_base.py
     │
     └── outputs/
         ├── experiment_results.csv

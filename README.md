@@ -147,6 +147,6 @@ This uses every candidate in the knowledge base as the secret for a simulated pl
 
 ## Data Source
 
-`data/raw/knowledge_base.csv` is a self-collected, hand-curated dataset compiled from public facts (e.g. Wikipedia and Wikidata, https://www.wikidata.org). Wikidata facts are CC0 and no Wikipedia text is copied. The file currently has 92 rows × 47 attribute columns (under 1 MB) and is loaded locally, so no network access is needed at runtime.
+`data/raw/knowledge_base.csv` is a self-collected, hand-curated dataset compiled from public facts (e.g. Wikipedia and Wikidata, https://www.wikidata.org). Wikidata facts are CC0 and no Wikipedia text is copied. The file currently has 161 rows × 47 attribute columns (under 1 MB) and is loaded locally, so no network access is needed at runtime.
 
 The CSV is generated from the compact tag list in `data/build_knowledge_base.py`. To add or edit characters, change the list in that script and run `python data/build_knowledge_base.py`, which rewrites the CSV and warns if two characters cannot be told apart by any question.

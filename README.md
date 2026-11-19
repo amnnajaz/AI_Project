@@ -69,7 +69,7 @@ cd AI_Project/Akinator
 
 # 2. Create and activate a virtual environment
 python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
+source venv/bin/activate        # Windows: .\venv\Scripts\Activate.ps1
 
 # 3. Install the dependencies
 pip install -r requirements.txt
